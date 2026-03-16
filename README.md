@@ -115,7 +115,7 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## Training Loss Over Epochs Plot
 
-
+![Screenshot](im1.png)
 
 ## True Stock Price, Predicted Stock Price vs time
 
