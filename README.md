@@ -117,13 +117,20 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ![Screenshot](im1.png)
 
+![Screenshot](im2.png)
+
+
+
+
+
 ## True Stock Price, Predicted Stock Price vs time
 
-
+![Screenshot](im3.png)
 
 
 ### Predictions
 
+![Screenshot](im4.png)
 
 
 
