@@ -3,8 +3,11 @@
 ## AIM
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
+## Problem Statement and Dataset
 
+To design and implement a Recurrent Neural Network (RNN) that learns temporal patterns from historical stock closing prices and predicts future stock prices based on past trends. The dataset consists of historical stock market data containing daily closing prices of a selected company, which is preprocessed through normalization and sequence generation before being used for training and testing the RNN model.
 
+<img width="882" height="843" alt="560045272-fc43b42b-4e61-4692-9f1b-315e2b51ec43" src="https://github.com/user-attachments/assets/5813491c-2c05-46e6-8297-fa074d9ba43f" />
 
 
 ## DESIGN STEPS
